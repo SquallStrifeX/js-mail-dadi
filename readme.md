@@ -21,6 +21,15 @@ Consigli del giorno:
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
 
 
+Problema 1-
+
+1- Chiediamo all'utente la sua email con una input, e prendiamo il valore con value;
+2- controlliamo in una lista di array se sia presente
+3- stampiamo sull'html se è presente o meno
+
+Problema 2-
+1- Generiamo due numeri casuali distinti e separati
+2- con la funzione if else decidiamo chi ha vinto e stampiamolo sull'html
 
 
 
